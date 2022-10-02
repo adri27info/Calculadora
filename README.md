@@ -1,4 +1,4 @@
-# AgendaContactos
+# Calculadora
 
 This is a js application based on performing mathematical calculations with the calculator.
 
