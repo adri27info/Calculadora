@@ -12,7 +12,7 @@ This is a js application based on performing mathematical calculations with the 
 
 ## Description
 
-This is a js application based on performing mathematical calculations with the calculator. Using the calculator you can perform calculations of addition, subtraction, multiplication and numbers.
+This is a js application based on performing mathematical calculations with the calculator. Using the calculator you can perform calculations of adding, subtracting, multiplying and dividing numbers.
 
 ## Technologies
 
